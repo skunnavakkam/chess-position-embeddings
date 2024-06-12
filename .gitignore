@@ -5,3 +5,5 @@ models/*
 pgns/*
 positions/*
 positions.ipynb
+chess-evals/*
+venv/*
